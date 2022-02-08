@@ -1,3 +1,9 @@
+/*
+  This is a brute-force algorithm which colours connected graphs.
+  To fully understand this task, please read "3._laboratorijska_vjezba[3].pdf"
+*/
+
+
 #include <iostream>
 #include <fstream>
 #include<algorithm>
